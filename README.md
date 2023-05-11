@@ -3,7 +3,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Contributing to a College<br>🌱 I’m currently learning DSA<br>⚡ Fun fact   I have been a math tutor, I've helped students improve their grades and develop a love for mathematics! 🧮🎓<br><br>
 
-From bits to pixels, I turn ideas into reality. Passionate software engineer with a knack for problem-solving and a love for elegant code. Building bridges between technology and human experiences. Let's create something extraordinary!
 
 
 ## 🌐 Socials:
